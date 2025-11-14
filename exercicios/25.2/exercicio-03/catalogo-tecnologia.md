@@ -32,9 +32,10 @@
 - Python - exemplo
 - JavaScript - exemplo
 - Go - @phpedruo
-
-
----
+- C++ - @jffn-web
+- C - @beatrizloyola
+- Lua (Roblox) - @LarissaGiovanna
+- Julia (EXISTE SIM ESSA LINGUAGEM DE PROGRAMAÇÃO) - @juliatenoriocalado
 
 ## Empresas do ecossistema (Recife / Porto Digital)
 
